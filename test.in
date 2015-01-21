@@ -1,0 +1,993 @@
+new: 8
+is_connected 0
+mst! -1
+mst! 50
+mst! 8
+mst 0 0
+mst 1 0
+mst 2 0
+mst 3 0
+mst 4 0
+mst 5 0
+mst 6 0
+mst 7 0
+insert 0 3 1
+insert 0 1 2
+insert 1 2 1
+insert 1 3 6
+insert 2 3 7
+insert 3 4 3
+insert 3 5 2
+insert 3 6 3
+insert 3 7 4
+insert 2 6 6
+degree 0 2
+degree 1 3
+degree 2 3
+degree 3 7
+degree 4 1
+degree 5 1
+degree 6 2
+degree 7 1
+adjacent 0 3 1
+adjacent 0 1 2
+adjacent 1 2 1
+adjacent 1 3 6
+adjacent 2 3 7
+adjacent 3 4 3
+adjacent 3 5 2
+adjacent 3 6 3
+adjacent 3 7 4
+adjacent 2 6 6
+is_connected 1
+edge_count 10
+mst 0 16
+mst 1 16
+mst 2 16
+mst 3 16
+mst 4 16
+mst 5 16
+mst 6 16
+mst 7 16
+insert 1 2 1
+insert 1 5 3
+insert 1 4 2
+insert 2 4 6
+insert 2 5 7
+insert 5 4 2
+insert 3 6 1
+insert 3 7 1
+insert 6 7 1
+insert 0 2 0
+insert 2 3 0
+insert 2 6 0
+insert 3 0 0
+insert 3 1 0
+insert 3 4 0
+insert 3 5 0
+insert 0 1 0
+is_connected 0
+adjacent 1 2 1
+adjacent 1 5 3
+adjacent 1 4 2
+adjacent 2 4 6
+adjacent 2 5 7
+adjacent 5 4 2
+adjacent 3 6 1
+adjacent 3 7 1
+adjacent 6 7 1
+edge_count 9
+mst 0 0
+mst 3 2
+mst 6 2
+mst 7 2
+mst 1 5
+mst 2 5
+mst 4 5
+mst 5 5
+delete
+memory 0
+new: 1
+mst 0 0
+is_connected 1
+mst! 1
+delete
+memory 0
+new: 2
+is_connected 0
+edge_count 0
+insert 0 1 5
+mst 0 5
+mst 1 5
+is_connected 1
+delete
+memory 0
+new: 5
+is_connected 0
+insert 0 1 1
+insert 0 2 2
+insert 0 3 3
+insert 0 4 4
+insert 1 2 5
+insert 1 4 8
+insert 1 3 2
+insert 2 3 6
+insert 2 4 7
+insert 3 4 1
+degree 0 4
+degree 1 4
+degree 2 4
+degree 3 4
+degree 4 4
+is_connected 1
+mst 0 6
+mst 1 6
+mst 2 6
+mst 3 6
+mst 4 6
+insert 0 1 1
+insert 0 2 1
+insert 0 3 1
+insert 0 4 1
+insert 1 2 1
+insert 1 4 1
+insert 1 3 1
+insert 2 3 1
+insert 2 4 1
+insert 3 4 1
+mst 0 4
+mst 1 4
+mst 2 4
+mst 3 4
+mst 4 4
+insert 0 1 0
+insert 0 2 0
+insert 0 3 0
+insert 0 4 0
+insert 1 2 0
+insert 1 4 0
+insert 1 3 0
+insert 2 3 0
+insert 2 4 0
+insert 3 4 0
+edge_count 0
+mst 0 0
+mst 1 0
+mst 2 0
+mst 3 0
+mst 4 0
+is_connected 0
+delete
+memory 0
+new
+insert 0 1 1
+insert 0 2 1
+insert 0 3 1
+insert 0 4 1
+insert 0 5 1
+insert 0 6 1
+insert 0 7 1
+insert 0 8 1
+insert 0 9 1
+insert 0 10 1
+insert 0 11 1
+insert 0 12 1
+insert 0 13 1
+insert 0 14 1
+insert 0 15 1
+insert 0 16 1
+insert 0 17 1
+insert 0 18 1
+insert 0 19 1
+insert 0 20 1
+insert 0 21 1
+insert 0 22 1
+insert 0 23 1
+insert 0 24 1
+insert 0 25 1
+insert 0 26 1
+insert 0 27 1
+insert 0 28 1
+insert 0 29 1
+insert 0 30 1
+insert 0 31 1
+insert 0 32 1
+insert 0 33 1
+insert 0 34 1
+insert 0 35 1
+insert 0 36 1
+insert 0 37 1
+insert 0 38 1
+insert 0 39 1
+insert 0 40 1
+insert 0 41 1
+insert 0 42 1
+insert 0 43 1
+insert 0 44 1
+insert 0 45 1
+insert 0 46 1
+insert 0 47 1
+insert 0 48 1
+insert 0 49 1
+edge_count 49
+mst 0 49
+is_connected 1
+delete
+memory 0
+new: 9
+edge_count 0
+is_connected 0
+insert 0 1 1.4
+insert 0 2 0.2
+insert 1 5 4.0
+insert 1 3 0.2
+insert 1 7 4.1
+insert 2 5 8.3
+is_connected 0
+mst 0 9.9
+mst 1 9.9
+mst 2 9.9
+mst 3 9.9
+mst 5 9.9
+mst 7 9.9
+mst 4 0
+mst 6 0
+mst 8 0
+insert 6 8 42
+mst 6 42
+mst 8 42
+mst 0 9.9
+mst 5 9.9
+insert 8 4 20.2
+mst 6 62.2
+mst 8 62.2
+mst 4 62.2
+mst 7 9.9
+insert 4 6 6.7
+mst 6 26.9
+mst 4 26.9
+mst 8 26.9
+insert 2 4 7.9
+insert 2 8 3.6
+insert 3 4 5.6
+insert 4 5 5.2
+insert 5 6 5.4
+insert 6 7 6.2
+insert 7 8 10.1
+insert! 9 0 2
+insert! 0 10 2
+insert! -1 4 2
+insert! 0 -2 5
+insert! -2 -6 2
+insert! 2 2 9
+edge_count 16
+degree 0 2
+degree 1 4
+degree 2 4
+degree 3 2
+degree 4 5
+degree 5 4
+degree 6 4
+degree 7 3
+degree 8 4
+adjacent 2 2 0
+adjacent 5 5 0
+adjacent 8 2 3.6
+adjacent 2 8 3.6
+adjacent 2 4 7.9
+adjacent 4 2 7.9
+adjacent 7 1 4.1
+adjacent 1 7 4.1
+adjacent! -1 4
+adjacent! 1 9
+adjacent! -4 -2
+adjacent! 0 -6
+adjacent! -5 13
+is_connected 1
+mst 0 24.1
+mst 1 24.1
+mst 2 24.1
+mst 3 24.1
+mst 4 24.1
+mst 5 24.1
+mst 6 24.1
+mst 7 24.1
+mst 8 24.1
+mst! 9
+mst! -2
+mst! 30
+insert 6 0 0
+insert 0 6 0
+edge_count 16
+insert 3 1 0
+insert 4 5 0
+degree 3 1
+degree 1 3
+degree 4 4
+degree 5 3
+edge_count 14
+insert 2 0 7.5
+edge_count 14
+delete
+memory 0
+new
+adjacent! 50 51
+nonadjacent 48 49
+delete
+memory 0
+new: 5
+adjacent! 5 4
+edge_count 0
+degree 4 0
+degree! 5
+insert 0 3 3.5
+insert 1 2 1.63
+is_connected 0
+degree 0 1
+degree 1 1
+degree 2 1
+degree 3 1
+adjacent 4 4 0
+adjacent 3 3 0
+insert! 3 3 545.4534
+insert! 3 1 -1
+insert 4 2 0
+degree 4 0
+edge_count 2
+insert 4 2 1.3
+is_connected 0
+mst 0 3.5
+mst 1 2.93
+insert 4 1 0.5
+edge_count 4
+is_connected 0
+mst 1 1.8
+insert 1 4 0
+edge_count 3
+insert 2 0 4.3
+degree 2 3
+degree 0 2
+degree 4 1
+edge_count 4
+is_connected 1
+mst 2 10.73
+insert 0 4 0.6
+mst 2 7.03
+insert 3 0 0
+insert! 1 1 3
+edge_count 4
+degree 3 0
+is_connected 0
+insert 1 0 0.8
+degree 0 3
+mst 0 2.7
+mst 3 0
+mst! 5
+insert 0 1 1
+insert 0 2 2
+insert 0 3 3
+insert 0 4 4
+insert 1 2 1.5
+insert 1 3 2.5
+insert 1 4 3.5
+insert 2 3 0.5
+insert 2 4 4.5
+insert! 0 5 4
+insert! -2 2 3
+insert 3 4 0.1
+is_connected 1
+edge_count 10
+degree 0 4
+degree 1 4
+degree 2 4
+degree 3 4
+degree 4 4
+mst 2 3.1
+mst 4 3.1
+insert 0 1 0
+insert 0 3 0
+insert 0 2 0
+insert 4 1 0
+insert 3 1 0
+insert 2 4 0
+is_connected 1
+degree 0 1
+degree 1 1
+degree 2 2
+degree 3 2
+degree 4 2
+mst 4 6.1
+adjacent 0 3 inf
+insert 1 2 0
+is_connected 0
+delete
+memory 0
+new: 8
+is_connected 0
+mst! -1
+mst! 50
+mst! 8
+mst 0 0
+mst 1 0
+mst 2 0
+mst 3 0
+mst 4 0
+mst 5 0
+mst 6 0
+mst 7 0
+insert 0 3 1
+insert 0 1 2
+insert 1 2 1
+insert 1 3 6
+insert 2 3 7
+insert 3 4 3
+insert 3 5 2
+insert 3 6 3
+insert 3 7 4
+insert 2 6 6
+degree 0 2
+degree 1 3
+degree 2 3
+degree 3 7
+degree 4 1
+degree 5 1
+degree 6 2
+degree 7 1
+adjacent 0 3 1
+adjacent 0 1 2
+adjacent 1 2 1
+adjacent 1 3 6
+adjacent 2 3 7
+adjacent 3 4 3
+adjacent 3 5 2
+adjacent 3 6 3
+adjacent 3 7 4
+adjacent 2 6 6
+is_connected 1
+edge_count 10
+mst 0 16
+mst 1 16
+mst 2 16
+mst 3 16
+mst 4 16
+mst 5 16
+mst 6 16
+mst 7 16
+insert 0 3 0
+insert 0 1 0
+insert 1 2 0
+insert 1 3 0
+insert 2 3 0
+insert 3 4 0
+insert 3 5 0
+insert 3 6 0
+insert 3 7 0
+insert 2 6 0
+insert 1 2 1
+insert 1 5 3
+insert 1 4 2
+insert 2 4 6
+insert 2 5 7
+insert 5 4 2
+insert 3 6 1
+insert 3 7 1
+insert 6 7 1
+is_connected 0
+adjacent 1 2 1
+adjacent 1 5 3
+adjacent 1 4 2
+adjacent 2 4 6
+adjacent 2 5 7
+adjacent 5 4 2
+adjacent 3 6 1
+adjacent 3 7 1
+adjacent 6 7 1
+edge_count 9
+mst 0 0
+mst 3 2
+mst 6 2
+mst 7 2
+mst 1 5
+mst 2 5
+mst 4 5
+mst 5 5
+delete
+memory 0
+new: 1
+mst 0 0
+is_connected 1
+mst! 1
+delete
+memory 0
+new: 2
+is_connected 0
+edge_count 0
+insert 0 1 5
+mst 0 5
+mst 1 5
+is_connected 1
+delete
+memory 0
+new: 5
+is_connected 0
+insert 0 1 1
+insert 0 2 2
+insert 0 3 3
+insert 0 4 4
+insert 1 2 5
+insert 1 4 8
+insert 1 3 2
+insert 2 3 6
+insert 2 4 7
+insert 3 4 1
+degree 0 4
+degree 1 4
+degree 2 4
+degree 3 4
+degree 4 4
+is_connected 1
+mst 0 6
+mst 1 6
+mst 2 6
+mst 3 6
+mst 4 6
+insert 0 1 1
+insert 0 2 1
+insert 0 3 1
+insert 0 4 1
+insert 1 2 1
+insert 1 4 1
+insert 1 3 1
+insert 2 3 1
+insert 2 4 1
+insert 3 4 1
+mst 0 4
+mst 1 4
+mst 2 4
+mst 3 4
+mst 4 4
+insert 0 1 0
+insert 0 2 0
+insert 0 3 0
+insert 0 4 0
+insert 1 2 0
+insert 1 4 0
+insert 1 3 0
+insert 2 3 0
+insert 2 4 0
+insert 3 4 0
+edge_count 0
+mst 0 0
+mst 1 0
+mst 2 0
+mst 3 0
+mst 4 0
+is_connected 0
+delete
+memory 0
+new
+insert 0 1 1
+insert 0 2 1
+insert 0 3 1
+insert 0 4 1
+insert 0 5 1
+insert 0 6 1
+insert 0 7 1
+insert 0 8 1
+insert 0 9 1
+insert 0 10 1
+insert 0 11 1
+insert 0 12 1
+insert 0 13 1
+insert 0 14 1
+insert 0 15 1
+insert 0 16 1
+insert 0 17 1
+insert 0 18 1
+insert 0 19 1
+insert 0 20 1
+insert 0 21 1
+insert 0 22 1
+insert 0 23 1
+insert 0 24 1
+insert 0 25 1
+insert 0 26 1
+insert 0 27 1
+insert 0 28 1
+insert 0 29 1
+insert 0 30 1
+insert 0 31 1
+insert 0 32 1
+insert 0 33 1
+insert 0 34 1
+insert 0 35 1
+insert 0 36 1
+insert 0 37 1
+insert 0 38 1
+insert 0 39 1
+insert 0 40 1
+insert 0 41 1
+insert 0 42 1
+insert 0 43 1
+insert 0 44 1
+insert 0 45 1
+insert 0 46 1
+insert 0 47 1
+insert 0 48 1
+insert 0 49 1
+insert! 0 50 3
+edge_count 49
+mst 0 49
+is_connected 1
+delete
+memory 0
+new: 30
+insert 0 1 123
+insert 0 1 124
+edge_count 1
+degree 0 1
+insert 0 1 0
+edge_count 0
+degree 0 0
+delete
+new: 5
+insert 0 2 3
+insert 0 3 4
+insert 0 4 5
+insert 1 2 123
+degree 0 3
+is_connected 1
+insert 0 1 10.5
+mst 0 22.5
+insert! 0 0 0
+delete
+memory 0
+new
+insert 1 2 123
+insert 1 2 144
+insert 2 1 0.5
+insert 2 0 1.3
+degree 2 2
+insert 2 3 144.5
+mst 2 146.3
+insert 2 0 0
+insert 2 0 0
+insert 2 0 0
+insert 2 0 0
+insert 49 48 144
+insert 47 45 112
+edge_count 4
+is_connected 0
+insert 2 49 100
+degree 2 3
+insert 47 49 888
+degree 49 3
+edge_count 6
+insert 2 3 1.5
+insert 49 48 2
+insert 49 48 0
+insert 48 49 1
+insert 47 45 0
+edge_count 5
+insert 45 47 3
+is_connected 0
+insert 48 45 0.2
+insert 47 48 1.5
+insert! 48 48 1.222
+edge_count 8
+is_connected 0
+insert 48 33 0.01
+insert 48 23 3.3
+insert 23 33 0.45
+insert 23 17 17
+insert 17 33 9
+degree 48 5
+insert 2 33 0.2
+is_connected 0
+mst 1 14.36
+insert 1 2 0
+degree 1 0
+is_connected 0
+insert 1 33 0.2
+insert 1 2 0.5
+degree 1 2
+insert 1 2 0
+insert 1 2 0.5
+insert 2 33 0
+degree 2 3
+adjacent 1 2 0.5
+is_connected 0
+insert 1 33 0
+nonadjacent 1 33
+is_connected 0
+mst 2 114.16
+insert 47 49 0.12
+insert 47 45 1
+insert 45 17 2
+mst 45 105.78
+degree 48 5
+edge_count 14
+adjacent 48 23 3.3
+is_connected 0
+insert 2 49 0
+is_connected 0
+degree 49 2
+mst 48 3.78
+insert 17 23 0.001
+mst 45 1.781
+insert 48 33 0
+insert 3 17 0.0005
+mst 1 5.7715
+edge_count 13
+delete
+new: 4
+edge_count 0
+mst 0 0
+insert 0 1 3.5
+edge_count 1
+is_connected 0
+insert 0 2 4.5
+mst 0 8
+mst 3 0
+is_connected 0
+insert 2 3 5.5
+is_connected 1
+mst 0 13.5
+insert 1 3 2.5
+mst 0 10.5
+insert 2 3 1.5
+mst 0 7.5
+insert 2 3 0
+mst 0 10.5
+is_connected 1
+insert 1 3 0
+is_connected 0
+insert 0 1 0
+is_connected 0
+delete
+memory 0
+new: 7
+insert 0 1 4
+insert 0 2 8
+insert 1 2 9
+insert 1 3 8
+insert 2 3 2
+insert 2 5 1
+insert 3 5 9
+insert 3 4 7
+insert 4 5 5
+insert 4 6 6
+insert 6 5 2
+edge_count 11
+mst 0 22
+is_connected 1
+delete
+memory 0
+new: 6
+insert 0 1 6
+edge_count 1
+insert 0 3 5
+edge_count 2
+insert 0 2 1
+edge_count 3
+insert 1 2 5
+edge_count 4
+insert 4 2 6
+edge_count 5
+insert 4 5 6
+edge_count 6
+insert 5 2 4
+edge_count 7
+insert 5 3 2
+edge_count 8
+insert 3 2 5
+edge_count 9
+insert 1 4 3
+edge_count 10
+insert! -9 3 1
+insert! 0 0 8
+insert! 0 1 -1
+insert! 2 3 -5
+edge_count 10
+is_connected 1
+degree 2 5
+mst 0 15
+insert 0 2 0
+insert 1 2 0
+insert 3 2 0
+insert 4 2 0
+insert 5 2 0
+degree 2 0
+is_connected 0
+delete
+memory 0
+new: 6
+insert 0 1 2
+insert 0 2 3
+insert 1 2 6
+insert 1 3 5
+insert 2 4 2
+insert 1 4 3
+insert 3 4 1
+insert 3 5 2
+insert 5 4 4
+edge_count 9
+degree 1 4
+is_connected 1
+degree 3 3
+mst 0 10
+insert 3 4 0
+insert 1 3 0
+insert 1 4 0
+insert 2 4 0
+is_connected 0
+delete
+memory 0
+new: 35
+degree 0 0
+edge_count 0
+insert! 36 9 -1
+insert! 20 20 4
+insert! 10 13 -9
+edge_count 0
+insert 0 1 1
+insert 0 8 1
+insert 7 8 1
+insert 7 15 1
+insert 7 14 2
+insert 14 15 8
+insert 14 21 2
+insert 14 15 1
+insert 21 15 1
+insert 15 22 1
+insert 21 28 3
+insert 28 29 1
+insert 22 29 1
+edge_count 12
+degree 14 3
+insert 8 9 1
+insert 15 16 1
+insert 2 9 2
+insert 9 16 2
+insert 16 15 1
+insert 16 23 2
+insert 15 23 1
+insert 23 30 2
+edge_count 19
+insert 6 5 1
+insert 5 12 1
+insert 6 12 1
+insert 12 13 1
+insert 13 20 1
+insert 19 26 6
+insert 20 27 1
+insert 26 27 1
+insert 27 34 1
+insert 33 34 1
+edge_count 29
+is_connected 0
+insert 4 11 1
+insert 11 12 1
+insert 11 18 3
+insert 18 25 1
+insert 25 26 1
+insert 19 26 3
+insert 25 32 1
+insert 32 33 1
+is_connected 0
+insert 3 10 4
+insert 10 11 1
+insert 10 18 1
+insert 10 17 1
+insert 18 24 1
+insert 24 31 1
+insert 23 31 1
+insert 16 17 1
+insert 9 10 4
+insert 2 10 4
+insert 2 3 4
+edge_count 47
+is_connected 1
+mst 0 41
+adjacent 25 26 1
+nonadjacent 12 19
+nonadjacent 8 15
+nonadjacent 21 22
+adjacent! 1 35
+adjacent! -1 20
+delete
+memory 0
+new: 9
+edge_count 0
+is_connected 0
+insert 0 1 1.4
+insert 0 2 0.2
+insert 1 5 4.0
+insert 1 3 0.2
+insert 1 7 4.1
+insert 2 5 8.3
+is_connected 0
+mst 0 9.9
+mst 1 9.9
+mst 2 9.9
+mst 3 9.9
+mst 5 9.9
+mst 7 9.9
+mst 4 0
+mst 6 0
+mst 8 0
+insert 6 8 42
+mst 6 42
+mst 8 42
+mst 0 9.9
+mst 5 9.9
+insert 8 4 20.2
+mst 6 62.2
+mst 8 62.2
+mst 4 62.2
+mst 7 9.9
+insert 4 6 6.7
+mst 6 26.9
+mst 4 26.9
+mst 8 26.9
+insert 2 4 7.9
+insert 2 8 3.6
+insert 3 4 5.6
+insert 4 5 5.2
+insert 5 6 5.4
+insert 6 7 6.2
+insert 7 8 10.1
+insert! 9 0 2
+insert! 0 10 2
+insert! -1 4 2
+insert! 0 -2 5
+insert! -2 -6 2
+insert! 2 2 9
+edge_count 16
+degree 0 2
+degree 1 4
+degree 2 4
+degree 3 2
+degree 4 5
+degree 5 4
+degree 6 4
+degree 7 3
+degree 8 4
+adjacent 2 2 0
+adjacent 5 5 0
+adjacent 8 2 3.6
+adjacent 2 8 3.6
+adjacent 2 4 7.9
+adjacent 4 2 7.9
+adjacent 7 1 4.1
+adjacent 1 7 4.1
+adjacent! -1 4
+adjacent! 1 9
+adjacent! -4 -2
+adjacent! 0 -6
+adjacent! -5 13
+is_connected 1
+mst 0 24.1
+mst 1 24.1
+mst 2 24.1
+mst 3 24.1
+mst 4 24.1
+mst 5 24.1
+mst 6 24.1
+mst 7 24.1
+mst 8 24.1
+mst! 9
+mst! -2
+mst! 30
+insert 6 0 0
+insert 0 6 0
+edge_count 16
+insert 3 1 0
+insert 4 5 0
+degree 3 1
+degree 1 3
+degree 4 4
+degree 5 3
+edge_count 14
+insert 2 0 7.5
+edge_count 14
